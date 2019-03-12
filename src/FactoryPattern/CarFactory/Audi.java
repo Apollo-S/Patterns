@@ -1,4 +1,4 @@
-package FactoryPattern;
+package FactoryPattern.CarFactory;
 
 public class Audi implements Car {
     @Override

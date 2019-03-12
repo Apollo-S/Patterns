@@ -1,4 +1,4 @@
-package FactoryPattern;
+package FactoryPattern.CarFactory;
 
 public class CarFactory {
     public Car create(CarType carType) {
